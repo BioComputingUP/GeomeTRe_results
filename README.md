@@ -11,6 +11,8 @@ data
 │  ├─ input_repeatsdb4_filtered.tsv  # RepeatsDB annotated proteins (aftyer removing low quality structures)
 │  ├─ output_design_geometre.csv
 │  └─ output_repeatsdb4_geometre.csv
+├─ repeatparam
+│  └─ output_repeatparam.csv  # Output of the RepeatParam software
 ├─ repeatsdb4_classification.json  # RepeatsDB metadata (unit definitions and classification)
 └─ repeatsdb4_designed.tsv  # IDs of designed proteins in RepeatsDB
 ```
